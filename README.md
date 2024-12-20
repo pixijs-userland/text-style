@@ -1,15 +1,13 @@
 # PixiJS TextStyle Generator
 
-[![Build Status](https://travis-ci.org/pixijs/pixi-text-style.svg?branch=master)](https://travis-ci.org/pixijs/pixi-text-style)
-
-Interactive tool built with [Bootstrap](https://getbootstrap.com/) and [Mithril](https://mithril.js.org/) to generate code for the `PIXI.TextStyle` object. [Click here](https://pixijs.github.io/pixi-text-style/) to use the editor.
+Interactive tool built with [Bootstrap](https://getbootstrap.com/) and [Mithril](https://mithril.js.org/) to generate code for the `PIXI.TextStyle` object. [Click here](https://userland.pixijs.io/text-style/) to use the editor.
 
 ## Related
 
 API documentation for:
 
-* [PIXI.TextStyle](http://pixijs.download/release/docs/PIXI.TextStyle.html)
-* [PIXI.Text](http://pixijs.download/release/docs/PIXI.Text.html)
+* [PIXI.TextStyle](https://pixijs.download/release/docs/text.TextStyle.html)
+* [PIXI.Text](https://pixijs.download/release/docs/text.Text.html)
 
 ## License
 
