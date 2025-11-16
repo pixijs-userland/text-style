@@ -16,9 +16,9 @@
   "author": "Matt Karl <matt@mattkarl.com>",
   "license": "MIT",
   "devDependencies": {
-    "cssnano": "^3.10.0",
-    "eslint": "^4.18.2",
-    "eslint-plugin-react": "^7.5.1",
+    "cssnano": "^7.1.2",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react": "^7.37.5",
     "gh-pages": "^1.1.0",
     "parcel": "^2.7.0",
     "rimraf": "^2.6.2"
